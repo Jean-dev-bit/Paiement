@@ -1,7 +1,7 @@
 # Paiement en ligne 
 
 
-/* Cei 'est conçue pour des réservation de place en ligne  pour les bus ou les marchandises en ligne */
+/* Ceci  est conçue pour des réservation de place en ligne  pour les bus ou les marchandises en ligne */
 
 
 /*Utilisation 
@@ -13,7 +13,7 @@ JavaScript mais le backend n'est pas fait pour juste pour vous montrer un aperç
 
 
 /*Préréquis
-    editeur de texte (vs code)
+    éditeur de texte (vs code)
     Navigateur , etc...
 
 */
