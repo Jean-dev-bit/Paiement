@@ -1,7 +1,7 @@
 # Paiement en ligne 
 
 
-/* Ceci  est conçue pour des réservation de place en ligne  pour les bus ou les marchandises en ligne */
+# Ceci  est conçue pour des réservation de place en ligne  pour les bus ou les marchandises en ligne 
 
 
 /*Utilisation 
